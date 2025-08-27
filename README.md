@@ -24,8 +24,9 @@ It introduces **beginners** to basic speech recognition while offering an **adva
   - `smtplib`
   - `requests` (for APIs)
   - `nltk` / `spacy` (for NLP)
+  - 
 📝 Steps Performed
-Advanced
+
 
 Extended Libraries — integrated smtplib, requests, nltk/spacy for NLP.
 
