@@ -24,7 +24,7 @@ It introduces **beginners** to basic speech recognition while offering an **adva
   - `smtplib`
   - `requests` (for APIs)
   - `nltk` / `spacy` (for NLP)
-  - 
+  
 📝 Steps Performed
 
 
