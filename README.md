@@ -24,12 +24,14 @@ It introduces **beginners** to basic speech recognition while offering an **adva
   - `smtplib`
   - `requests` (for APIs)
   - `nltk` / `spacy` (for NLP)
-##Learning Outcomes
+  - 
+## Learning Outcomes
 Working with speech recognition.
 Building task automation scripts.
 Using APIs and NLP.
 Handling errors & edge cases.
-📝 Steps Performed
+
+#### 📝 Steps Performed
 Extended Libraries – Integrated smtplib for emails, requests for APIs, and nltk/spacy for Natural Language Processing.
 Email Functionality – Allowed sending emails using SMTP authentication.
 Reminders – Implemented reminder storage and notification logic.
